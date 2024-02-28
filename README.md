@@ -6,4 +6,4 @@ Maintainer of: [awesomebitcoin.cash](https://awesomebitcoin.cash)
 
 Developer and maintainer on: [mainnet.cash](https://mainnet.cash)
 
-Hobbies: Beavers (**castor canadensis**) and the stages of their habitats.
+Hobbies: Beavers (*castor canadensis*) and the stages of their habitats.
