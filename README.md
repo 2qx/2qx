@@ -1,5 +1,7 @@
 # 2qx
 
+Funder of : [futurebitcoin.cash](https://futurebitcoin.cash)
+
 Creator of : [unspent.cash](https://unspent.cash) 👈 and [~~unspent.app~~](https://unspent.app)
 
 Maintainer of: [awesomebitcoin.cash](https://awesomebitcoin.cash)
